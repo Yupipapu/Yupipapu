@@ -1,7 +1,5 @@
 <img src="" width="100%">
 
-<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
-
 <h1 align="center">Wenas</h1>
 
 I am Yupipapu, un pequeño desarrollador que hace weas sin ninguna razón.
