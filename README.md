@@ -1,4 +1,6 @@
-<img src="https://media.discordapp.net/attachments/1449990339870986241/1569210305370656909/maidragons-bgs-are-still-so-pretty-it-hurts-2.jpg?ex=6af2a07b&is=6af14efb&hm=382228f1dc91a1ce890f080e050b56dcb80bd5888bd16678d96c168548d266d1&=&format=webp&width=1536&height=864" align="right" width="1536">
+<img src="" width="100%">
+
+<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
 
 <h1 align="center">Wenas</h1>
 
@@ -6,3 +8,16 @@ I am Yupipapu, un pequeño desarrollador que hace weas sin ninguna razón.
 
 ```toml
 name = "Yupipapu"
+
+```
+
+## Skills
+
+![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- - -
+
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- - -
