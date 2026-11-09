@@ -8,7 +8,6 @@ I am Yupipapu, un pequeño desarrollador que hace weas sin ninguna razón.
 name = "Yupipapu"
 
 ```
-
 ## Skills
 
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
