@@ -1,4 +1,4 @@
-<img src="https://github.com/Yupipapu/profile/blob/main/1776918630.jpg" width="100%">
+<img src="https://github.com/Yupipapu/Yupipapu/blob/main/1776918630.jpg" width="100%">
 
 <h1 align="center">Wenas</h1>
 
